@@ -1,0 +1,57 @@
+html,body{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: boredfont;
+    color: mediumseagreen;
+    font-size: 25px;
+
+}
+
+@font-face {
+    font-family: boredfont;
+    src: url(fonts/_ChEKD0RlbGEgR290aGljIE9uZSAFQhQKEGphcGFuZXNlX2RlZmF1bHQQAA==.118.woff2),url(fonts/_ChEKD0RlbGEgR290aGljIE9uZSAFQhQKEGphcGFuZXNlX2RlZmF1bHQQAA==.119.woff2);
+}
+
+
+.boredbot-container{
+
+
+height: 500px;
+width: 500px;
+background:radial-gradient(#0F2027,#203A43,#2C5364);
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+justify-content: space-around;
+padding: 20px;
+flex-wrap: wrap;
+
+
+}
+
+#btn{
+
+padding: 80px;
+border-radius: 50%;
+border: 2px solid aqua;
+background-color: tomato;
+
+
+cursor: pointer;
+
+
+
+}
+
+#btn:hover{
+
+background-color: hsla(9, 100%, 64%,0.8);
+    
+
+
+}
+
