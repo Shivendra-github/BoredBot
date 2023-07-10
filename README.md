@@ -1,3 +1,5 @@
 # BoredBot
 Simple Bot uses API to suggest new ideas  when you are getting bored.
-You can see -> https://shivendra-github.github.io/BoredBot/
+![Logo](https://i.ibb.co/mHjChKC/boredBot.png)
+
+You can [ see the game in action here.](https://shivendra-github.github.io/BoredBot/)
